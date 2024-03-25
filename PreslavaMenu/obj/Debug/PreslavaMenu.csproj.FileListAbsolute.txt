@@ -1,0 +1,11 @@
+P:\PreslavaMenu\PreslavaMenu\bin\Debug\PreslavaMenu.exe.config
+P:\PreslavaMenu\PreslavaMenu\bin\Debug\PreslavaMenu.exe
+P:\PreslavaMenu\PreslavaMenu\bin\Debug\PreslavaMenu.pdb
+P:\PreslavaMenu\PreslavaMenu\obj\Debug\PreslavaMenu.csproj.AssemblyReference.cache
+P:\PreslavaMenu\PreslavaMenu\obj\Debug\PreslavaMenu.csproj.SuggestedBindingRedirects.cache
+P:\PreslavaMenu\PreslavaMenu\obj\Debug\PreslavaMenu.Form1.resources
+P:\PreslavaMenu\PreslavaMenu\obj\Debug\PreslavaMenu.Properties.Resources.resources
+P:\PreslavaMenu\PreslavaMenu\obj\Debug\PreslavaMenu.csproj.GenerateResource.cache
+P:\PreslavaMenu\PreslavaMenu\obj\Debug\PreslavaMenu.csproj.CoreCompileInputs.cache
+P:\PreslavaMenu\PreslavaMenu\obj\Debug\PreslavaMenu.exe
+P:\PreslavaMenu\PreslavaMenu\obj\Debug\PreslavaMenu.pdb
